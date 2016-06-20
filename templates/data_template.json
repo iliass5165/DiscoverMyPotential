@@ -1,8 +1,7 @@
 {
     "current_job": "",
-    "timeline": {},     # a key, value store : { 'year': 'content'}
+    "timeline": {},
     "email": "", 
     "fullname": "",	    
-    "skill": [],	      # a list of strings describing a skill
-    "projects": [] 	    # a list of project urls
-}
+    "skill": [],
+    "projects": []
